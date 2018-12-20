@@ -13,6 +13,9 @@ Interação com os seguintes elementos:
 - Alert
 - Button
 
+São duas baterias de testes:
+-A primeira foca nos testes funcionais.
+-A segunda foca na validação de todos os erros que podem ocorrer.
 
 Testes podem ser rodados nos browsers: IE, CHROME e FIREFOX
 

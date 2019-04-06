@@ -19,5 +19,8 @@ São duas baterias de testes:
 
 Testes podem ser rodados nos browsers: IE, CHROME e FIREFOX
 
+Testes podem ser rodados de forma local ou remota utilizando selenium GRID
+
 - Utilização de Junit4
 - Padrão de projeto: PageObject
+- Maven

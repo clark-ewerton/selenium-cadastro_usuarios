@@ -19,4 +19,5 @@ São duas baterias de testes:
 
 Testes podem ser rodados nos browsers: IE, CHROME e FIREFOX
 
-Utilização de Junit4
+- Utilização de Junit4
+- Padrão de projeto: PageObject
